@@ -1,0 +1,138 @@
+.EY{
+    border: 1px solid #ddd ;
+    display: flex;
+    width: 280px;
+    height: 50px;
+    align-items: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+.EY1{
+    background: #FE5DA3;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-left: 10px;
+    border-radius: 20px;
+    color: #F1F1F1;
+}
+.EY2{
+   margin-left: 10px;
+}
+.chat{
+    border:1px solid #ddd;
+    width : 280px;
+    height:280px;
+    font-size:15px;
+   
+
+}
+.chat1,.chat3,.chat5{
+    width:230px;
+    background: #F1F1F1;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: 10;
+}
+.chat2,.chat4{
+   background: #FE5DA3;
+   margin-left: 60px;
+   margin-right: 10px;
+   border-radius: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 10px;
+   color:#F1F1F1;
+}
+.send{
+    height: 45px;
+    border: 1px solid #ddd;
+    width: 280px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.send1{
+    margin-left: 10px;
+    margin-top:10px;
+    width: 200px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    border: 1px solid #ddd;
+}
+.send2{
+    margin-left: 10px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    background: #FE5DA3;
+    color:#F1F1F1;
+    border: 1px solid #ddd;
+}
+.tech{
+    display:block;
+}
+.porduct{
+    display: inline-block;
+    height: 350px;
+    width: 260px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+.qhq{
+    height:70%;
+    width:100%;
+}
+.item{
+    display: block;
+}
+.list{
+    padding-top: 10px;
+    display: inline-block;
+    height: 120px;
+    width: 220px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom: 12px;
+}
+.image{
+    height: 100px;
+    width: auto;
+    margin-left: 50px;
+}
+.fashion{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 14px;;
+}
+.ten{
+    font-size : 20px;
+    text-decoration: dashed;
+    margin-bottom: 10px;
+}
+.cost{
+    color:#008000;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.giacu{
+    color: #FF0000;
+    font-size: 20px;
+    text-decoration: line-through;
+    margin-bottom: 5px;
+}
+.discount{
+   margin-bottom: 20px;
+   font-size: 18px;
+   color: #800080;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
